@@ -29,6 +29,3 @@ We welcome contributions to improve and enhance this project. To contribute, ple
 - Make your changes and commit them: git commit -m 'Add some feature'.
 - Push your changes to the branch: git push origin feature/your-feature-name.
 - Create a pull request to the main branch of the original repository.
-
-## Contact
-If you have any questions or would like to get in touch, feel free to reach out to us at [juvenstu7@gmail.com](mailto:juvenstu7@gmail.com)
