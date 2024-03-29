@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to MERN Estate, an immersive and intuitive real estate marketplace web application meticulously crafted by Juvens Tuyizere, a full-stack developer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project serves a dual purpose portfolio building.
+Welcome to MERN Estate, an immersive and intuitive real estate marketplace web application meticulously crafted by Juvens Tuyizere, a full-stack developer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project was created for portfolio building.
 
 ## Features
 
@@ -90,4 +90,4 @@ If you find this project helpful or inspiring, please consider showing your supp
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/juvenstu/mern-estate?tab=MIT-1-ov-file).
