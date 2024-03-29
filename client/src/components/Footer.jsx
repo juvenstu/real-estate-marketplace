@@ -9,7 +9,7 @@ export default function Footer() {
           className="font-semibold hover:underline"
           to="https://www.linkedin.com/in/juvenstu/"
         >
-          TUYIZERE Juvens
+          Juvens Tuyizere
         </Link>
         . Explore additional open-source projects on{" "}
         <Link
