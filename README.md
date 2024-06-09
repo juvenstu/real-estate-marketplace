@@ -86,8 +86,8 @@ Contributions are warmly welcomed to further enhance and improve this project. T
 
 ## Support and Recognition
 
-If you find this project helpful or inspiring, please consider showing your support by giving it a ⭐️ on the [project repository](https://github.com/juvenstu/mern-estate). This simple gesture not only motivates the creator but also helps raise awareness and encourage the development of more projects like this one.
+If you find this project helpful or inspiring, please consider showing your support by giving it a ⭐️ on the [project repository](https://github.com/juvenstu/real-estate-marketplace). This simple gesture not only motivates the creator but also helps raise awareness and encourage the development of more projects like this one.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/juvenstu/mern-estate?tab=MIT-1-ov-file).
+This project is licensed under the [MIT License](LICENSE).
