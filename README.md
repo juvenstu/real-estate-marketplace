@@ -1,8 +1,8 @@
-# Real Estate Marketplace
+# Reesma
 
 ## Overview
 
-Welcome to Real Estate Marketplace, an immersive and intuitive web application meticulously crafted using MERN Stack by Juvens Tuyizere, a software engineer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project was created for portfolio building.
+Welcome to Reesma, an immersive and intuitive real estate marketplace web application meticulously crafted using MERN Stack by Juvens Tuyizere, a software engineer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project was created for portfolio building.
 
 ## Features
 
@@ -48,7 +48,7 @@ JSON Web Tokens (JWT) is an open standard for securely transmitting information 
 
 To explore and experience the MERN Estate application, follow these simple steps:
 
-1. **Live Demo**: Visit the [live demo](https://mern-estate-8ks3.onrender.com) hosted on Render to navigate through the application and witness its functionality in action.
+1. **Live Demo**: Visit the [live demo](https://reesma.onrender.com) hosted on Render to navigate through the application and witness its functionality in action.
 
 2. **Local Development**: If you prefer to run the application locally, follow the detailed instructions below to set up the development environment and launch the application on your machine.
 
@@ -60,8 +60,8 @@ To explore and experience the MERN Estate application, follow these simple steps
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/juvenstu/mern-estate.git`
-2. Navigate to the project directory: `cd mern-estate`
+1. Clone the repository: `git clone https://github.com/juvenstu/reesma.git`
+2. Navigate to the project directory: `cd reesma`
 3. Install dependencies for the server: `npm i --prefix server`
 4. Install dependencies for the client: `npm i --prefix client`
 5. Create a `.env` file in the `server` and `client` directory and provide the required environment variables. Refer to the `.env.example` file.
@@ -80,13 +80,13 @@ Contributions are warmly welcomed to further enhance and improve this project. T
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+3. Make your changes and commit them: `git commit -m 'add some feature'`.
 4. Push your changes to the branch: `git push origin feature/your-feature-name`.
 5. Create a pull request to the main branch of the original repository.
 
 ## Support and Recognition
 
-If you find this project helpful or inspiring, please consider showing your support by giving it a ⭐️ on the [project repository](https://github.com/juvenstu/real-estate-marketplace). This simple gesture not only motivates the creator but also helps raise awareness and encourage the development of more projects like this one.
+If you find this project helpful or inspiring, please consider showing your support by giving it a ⭐️ on the [project repository](https://github.com/juvenstu/reesma). This simple gesture not only motivates the creator but also helps raise awareness and encourage the development of more projects like this one.
 
 ## License
 

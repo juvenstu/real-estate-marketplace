@@ -7,7 +7,7 @@ import listingRouter from "./routes/listing.js";
 import cookieParser from "cookie-parser";
 import path from "path";
 
-dotenv.config();
+dotenv.config({path: [".env", ".env.local"]});
 
 // Connect to the MongoDB database
 mongoose
