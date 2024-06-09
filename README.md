@@ -1,15 +1,15 @@
-# Real Estate Marketplace Web Application
+# Real Estate Marketplace
 
 ## Overview
 
-Welcome to MERN Estate, an immersive and intuitive real estate marketplace web application meticulously crafted by Juvens Tuyizere, a full-stack developer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project was created for portfolio building.
+Welcome to Real Estate Marketplace, an immersive and intuitive web application meticulously crafted using MERN Stack by Juvens Tuyizere, a software engineer renowned for creating technically sound and visually captivating web applications using cutting-edge technologies in a scalable manner. This project was created for portfolio building.
 
 ## Features
 
-- **User-Friendly Property Listings**: Seamlessly browse and search through a vast array of property listings, ensuring an exceptional user experience.
+- **User-Friendly Property Listings**: Seamlessly browse and search a vast array of property listings, ensuring an exceptional user experience.
 - **Secure Authentication and Authorization**: Robust user authentication and authorization powered by JWT (JSON Web Tokens) and Firebase, guaranteeing a secure and reliable login process.
-- **User Profile Management**: Effortlessly manage your user profile, including the ability to list and edit your properties with ease.
-- **Intuitive Property Creation and Editing**: Streamlined forms for creating and editing property listings, empowering users to showcase their real estate offerings effectively.
+- **User Profile Management**: Effortlessly manage your user profile, including easily listing and editing your properties.
+- **Intuitive Property Creation and Editing**: Streamlined forms for creating and editing property listings, empowering users to effectively showcase their real estate offerings.
 - **Responsive and Modern UI**: A visually stunning and responsive user interface crafted with Tailwind CSS, ensuring a seamless experience across devices.
 - **State Management**: Efficient state management enabled by Redux Toolkit, providing a seamless and reactive application experience.
 
